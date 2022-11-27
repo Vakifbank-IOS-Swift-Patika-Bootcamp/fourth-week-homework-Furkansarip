@@ -3,7 +3,6 @@ XCode 14.0.1
 
 ## :star2: Proje Hakkında
 <div align="center"> 
-
 <ul>
 <li>
 Dizi Karakterlerinin Listelenmesi &#x2611;
@@ -27,7 +26,7 @@ IMDB Sayfası &#x2611;
 
 </div>
 
-<img width = "2000" alt="first" src = "https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-Furkansarip/blob/main/Screenshots/bbfst.png">
-<img width = "2000" alt="first" src = "https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-Furkansarip/blob/main/Screenshots/bbsct.png">
+<img width = "2000" alt="first" src = "https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-Furkansarip/blob/main/screenshots/bbfst.png">
+<img width = "2000" alt="first" src = "https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-Furkansarip/blob/main/screenshots/bbsct.png">
 
 
