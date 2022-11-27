@@ -1,40 +1,33 @@
-# fourth-week-homework
+# BreakingBad App
+XCode 14.0.1
 
-1- https://breakingbadapi.com/  API kullanılarak bir uygulama geliştirilecektir. Aşağıda detaylar verilmiştir.
---
+## :star2: Proje Hakkında
+<div align="center"> 
 
-• Uygulama tablı yapıda olacaktır.(Açılış tabbar) ve 3 ayrı tab olacaktır.
-• Activity indicator kullanılmalıdır.
-• Alert gösterimi yapılmalıdır.
+<ul>
+<li>
+Dizi Karakterlerinin Listelenmesi &#x2611;
+</li>
+<li>
+Karakter Detay Ekranı &#x2611;
+</li>
+<li>
+Karakter Alıntı ve Sözleri &#x2611;
+</li>
+<li> 
+Bölümlerin listelenmesi &#x2611;
+</li>
+<li> 
+Bölümlerde oynayan karakterler &#x2611;
+</li>
+<li> 
+IMDB Sayfası &#x2611;
+</li>
+</ul>
 
-## 1.Tab - Karakterler:
+</div>
 
-• Bu ekranda karakterler listelenecektir.
-• CollectionViewda en az karakterin ismi, doğum günü ve takma adı olacaktır.
-• Listeden karaktere bastığımda karakter detay ekranına yönlenmelidir.
+<img width = "2000" alt="first" src = "https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-Furkansarip/blob/main/Screenshots/bbfst.png">
+<img width = "2000" alt="first" src = "https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-Furkansarip/blob/main/Screenshots/bbsct.png">
 
-Karakter Detay Ekranı:
 
-• Karakterin görseli ile birlikte en az 4 bilgisi yer almalıdır.
-• Ekranda bir button olmalı ve bu button karakterin sözleri(alıntıları) ekranına yönlenmelidir.
-
-Karakterin Sözleri-Alıntıları Ekranı:
-
-• Ekranda karakterin sözleri-alıntıları listelenmelidir.
-
-## 2.Tab - Bölümler:
-
-• Ekranda bölümler listelenmelidir.
-• TableViewda en az ismi ve sezonu bulunmalıdır.
-• Listeden bölüme bastığımda ekranın üstünde bir detay view açılmalıdır.(ViewController değil View olacak).
-• View üzerinde bölümdeki oyuncular yer almalı sağ üst köşede kapat butonu olmalı.
-• Kapat butonu aksiyonu delegate ile yönetilebilmelidir.(Kapata bastığımda liste ekranında print yazılması yeterlidir.)
-
-## 3.Tab- IMDB Sayfası
- 
-• Ekranda Webview ile IMDBde dizinin sayfası açılmalıdır.
-
-2- Clean Code - 1, 2, 3, 4 chapterlar özetlenmelidir.
---
-
-Kolay gelsin :)
